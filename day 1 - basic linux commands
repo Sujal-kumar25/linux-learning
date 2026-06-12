@@ -1,0 +1,4 @@
+- pwd → Shows the current working directory.
+- ls → Lists files and directories.
+- cd → Changes the current directory.
+- mkdir → Creates a new directory.
